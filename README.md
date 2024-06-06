@@ -32,26 +32,7 @@ Contact Me :
 <img src="https://img.shields.io/badge/-ASP.NETCore-05122A?style=flat&logo=dotnet&logoColor=512BD4" alt="ASP.NET"> 
 <img src="https://img.shields.io/badge/-API-05122A?style=flat&logo=dotnet&logoColor=512BD4" alt="API"> 
 <img src="https://img.shields.io/badge/-MVC-05122A?style=flat&logo=dotnet&logoColor=512BD4" alt="MVC"> 
-<img src="https://img.shields.io/badge/-Visual%20Studio-05122A?style=flat&logo=visual%20studio&logoColor=5C2D91" alt="Visual Studio"> 
- 
-
- 
- 
-
-Projects
-Talabat (E-Commerce Web App) GitHub
-
-“Talabat" is a .NET Core 6 API app with Onion Architecture, using LINQ, EF Core for data management, Generic Repository, Unit of Work, and Specification Design Pattern. It handles all common errors, search, sorting, filtration, pagination, and uses Redis DB for user basket management and caching service. It incorporates authentication and authorization with JWT for token generation and uses Stripe for the payment gateway method.
-Movies App GitHub
-
-"Movies" is a .NET Core 6 API app with three-tier architecture, using LINQ and Entity Framework Core for efficient movie data management. It incorporates Generic Repository, Unit of Work, and Specification Design Pattern. It handles all common errors, search, pagination, sorting, data seeding, and uses Auto Mapper.
-MVC Dashboard GitHub
-
-Used technologies: ASP.NET Core MVC, ASP.NET Core Identity, Entity Framework Core, SQL Server, Email Sign-in/Register Service, Unit of Work Design Pattern, Generic Design Pattern, and Repository Pattern.
-Library Management System GitHub (currently working on it)
-
-"Bookify" is a web application dashboard designed to facilitate the rental of books by subscribers or uploading books. Bookify provides a platform for individuals to connect and engage in the trade of used books. Users can easily set up a profile, make subscriptions, and deal with books available for rental.
-Examination System GitHub
+<img src="https://img.shields.io/badge/-Visual%20Studio-05122A?style=flat&logo=visual%20studio&logoColor=5C2D91" alt="Visual Studio">
 
 Built using C# & OOP.
 Skills
