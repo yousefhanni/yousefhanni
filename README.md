@@ -23,19 +23,22 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-![HTML](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+<img src="https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5" alt="HTML">&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+<img src="https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3" alt="CSS">&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=microsoft%20sql%20server&logoColor=CC2927)&nbsp;
-![SQL Server](https://img.shields.io/badge/-SQL%20Server-05122A?style=flat&logo=microsoft%20sql%20server&logoColor=CC2927)&nbsp;
-![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=c-sharp&logoColor=5C2D91)&nbsp;
-![LINQ](https://img.shields.io/badge/-LINQ-05122A?style=flat&logo=.NET&logoColor=512BD4)&nbsp;
-![Entity Framework](https://img.shields.io/badge/-Entity%20Framework%20Core-05122A?style=flat&logo=.NET&logoColor=512BD4)&nbsp;
-![ASP.NET](https://img.shields.io/badge/-ASP.NETCore-05122A?style=flat&logo=dotnet&logoColor=512BD4)&nbsp;
-![API](https://img.shields.io/badge/-API-05122A?style=flat&logo=dotnet&logoColor=512BD4)&nbsp;
-![MVC](https://img.shields.io/badge/-MVC-05122A?style=flat&logo=dotnet&logoColor=512BD4)&nbsp;
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-05122A?style=flat&logo=visual%20studio&logoColor=5C2D91)&nbsp;
+
+<img src="https://img.shields.io/badge/-SQL-05122A?style=flat&logo=microsoft%20sql%20server&logoColor=CC2927" alt="SQL">&nbsp;
+<img src="https://img.shields.io/badge/-SQL%20Server-05122A?style=flat&logo=microsoft%20sql%20server&logoColor=CC2927" alt="SQL Server">&nbsp;
+<img src="https://img.shields.io/badge/-C%23-05122A?style=flat&logo=c-sharp&logoColor=5C2D91" alt="C#">&nbsp;
+<img src="https://img.shields.io/badge/-LINQ-05122A?style=flat&logo=.NET&logoColor=512BD4" alt="LINQ">&nbsp;
+<img src="https://img.shields.io/badge/-Entity%20Framework%20Core-05122A?style=flat&logo=.NET&logoColor=512BD4" alt="Entity Framework">&nbsp;
+<img src="https://img.shields.io/badge/-ASP.NETCore-05122A?style=flat&logo=dotnet&logoColor=512BD4" alt="ASP.NET">&nbsp;
+<img src="https://img.shields.io/badge/-API-05122A?style=flat&logo=dotnet&logoColor=512BD4" alt="API">&nbsp;
+<img src="https://img.shields.io/badge/-MVC-05122A?style=flat&logo=dotnet&logoColor=512BD4" alt="MVC">&nbsp;
+<img src="https://img.shields.io/badge/-Visual%20Studio-05122A?style=flat&logo=visual%20studio&logoColor=5C2D91" alt="Visual Studio">&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yousefhanni&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="yousefhanni" />
