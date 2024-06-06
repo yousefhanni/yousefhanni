@@ -7,12 +7,12 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Backend%20.Net%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p>
-🏢 A Junior .Net Backend web developer
-🎓 A CS student at HTI (Higher Technological Institute)
-👨‍💻 Constantly learning and exploring new technologies to improve my skills
-💬 Ask me about <strong>C#, SQL Server and Asp.net Core</strong>
-Contact Me :
-<a href="https://www.linkedin.com/in/yousef-hani-431564262" target="_blank"><img src="https://img.shields.io/badge/-Yousef%20Hani-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+- 🏢 A Junior .Net Backend web developer
+- 🎓 A CS student at HTI (Higher Technological Institute)
+- 👨‍💻 Constantly learning and exploring new technologies to improve my skills
+- 💬 Ask me about <strong>C#, SQL Server and Asp.net Core</strong>
+### Contact Me :
+<a href="https://www.linkedin.com/in/yousef-hani-431564262/" target="_blank"><img src="https://img.shields.io/badge/-Yousef%20Hani-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://wa.me/+201222535069" target="_blank"><img src="https://img.shields.io/badge/-Yousef%20Hani-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white"/></a>
 <a href="mailto:ytaha6368@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Yousef%20Hani-EA2328?style=for-the-badge&logo=Gmail&logoColor=red"/></a>
 
@@ -34,16 +34,6 @@ Contact Me :
 <img src="https://img.shields.io/badge/-MVC-05122A?style=flat&logo=dotnet&logoColor=512BD4" alt="MVC"> 
 <img src="https://img.shields.io/badge/-Visual%20Studio-05122A?style=flat&logo=visual%20studio&logoColor=5C2D91" alt="Visual Studio">
 
-Built using C# & OOP.
-Skills
-Back End: C#, ASP.NET Core MVC, ASP.NET Core API, Entity Framework Core, LINQ
-Front End: HTML, CSS, JavaScript, Bootstrap, jQuery (in progress)
-Database: Microsoft SQL Server
-Concepts: Object-Oriented Programming, Data Structures, Algorithms, SOLID Principles, Design Patterns
-Tools: GitHub, Postman, Visual Studio
-Certificates
-Back-end (Backend Asp.Net) Diploma: Route Academy
-Certificate
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yousefhanni&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="yousefhanni" />
 <br>
 <a href="https://komarev.com/ghpvc/?username=yousefhanni&style=for-the-badge">
